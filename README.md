@@ -12,3 +12,17 @@
 
 ## 导出PDF含书签
 ![屏幕截图 2023-05-08 152855](https://user-images.githubusercontent.com/54654343/236763962-2e0a50e7-f555-4bfd-8306-0aa5418bf8ff.png)
+
+# 论文写作资源推荐
+
+## 表格制作
+
+在线制表网站：https://www.latex-tables.com/
+
+## 图片排版
+
+插入多张图片，实现并排排列或者多行多列排列：https://cloud.tencent.com/developer/article/2072183
+
+## 排版技巧
+
+中文作业排版的编辑技巧：https://blog.csdn.net/weixin_39679367/article/details/117447754
