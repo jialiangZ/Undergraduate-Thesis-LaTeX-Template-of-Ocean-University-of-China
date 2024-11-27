@@ -15,6 +15,10 @@
 
 # 论文写作资源推荐
 
+## 在线写作
+
+模板已上传到TexPage网站，可以直接在线使用：https://www.texpage.com/template/fce6f583-3a96-4494-8d59-8bd4deb45c5d
+
 ## 表格制作
 
 在线制表网站：https://www.latex-tables.com/
